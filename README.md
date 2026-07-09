@@ -5,20 +5,48 @@
 </p>
 
 <p align="center">
-Securely detect, monitor, and manage cybersecurity threats through a centralized dashboard powered by Spring Boot and React.
+
+Securely detect, monitor, and manage cybersecurity threats through a centralized dashboard powered by Spring Boot, React, and real-time network packet analysis.
+
 </p>
 
 <p align="center">
 
-![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge\&logo=jsonwebtokens)
+<img src="https://img.shields.io/badge/Java-25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring_Boot-3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens" />
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TShark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Capture-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Nmap-Port%20Scanning-004170?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
-
 ---
 
 ## 📖 Overview
@@ -88,7 +116,7 @@ Built using Spring Boot and React, the project demonstrates secure backend devel
 
 |       Threat Management      |  
 | :--------------------------: | 
-| ![](screenshots/threats.png.png) 
+| ![](screenshots/threat.png.png) 
 
 ---
 
