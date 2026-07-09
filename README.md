@@ -84,11 +84,11 @@ Built using Spring Boot and React, the project demonstrates secure backend devel
 
 |            Login           |            Dashboard           |
 | :------------------------: | :----------------------------: |
-| ![](screenshots/login.png.png) | ![](screenshots/dashboard.png) |
+| ![](screenshots/login.png.png) | ![](screenshots/dashboard.png.png) |
 
-|       Threat Management      |            Audit Logs           |
-| :--------------------------: | :-----------------------------: |
-| ![](screenshots/threats.png) | ![](screenshots/audit-logs.png) |
+|       Threat Management      |  
+| :--------------------------: | 
+| ![](screenshots/threats.png.png) 
 
 ---
 
